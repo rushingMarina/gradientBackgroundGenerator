@@ -1,4 +1,4 @@
 # gradientBackgroundGenerator
-gradientBackgroundGenerator webpage
+gradientBackgroundGenerator webpage.
 Alternative link: 
 http://www.rushingmarina.com/backgroundGenerator/
